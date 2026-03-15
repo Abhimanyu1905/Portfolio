@@ -176,7 +176,7 @@ const Hero = () => {
 
             {/* Download Resume — update href to your actual resume path */}
             <motion.a
-              href="/Abhimanyu.pdf"
+              href="/public/Abhimanyu.pdf"
               download
               whileHover={{ scale: 1.06 }}
               whileTap={{ scale: 0.95 }}
