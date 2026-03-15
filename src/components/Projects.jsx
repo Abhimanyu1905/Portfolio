@@ -23,8 +23,8 @@ const PROJECTS = [
       'Deployed on Vercel',
     ],
     tech: ['HTML', 'CSS', 'JavaScript', 'SQL', 'GitHub', 'Vercel'],
-    github: 'https://github.com/abhimanyu',   // ← update
-    demo:   '#',                                // ← update
+    github: 'https://github.com/Abhimanyu1905/Chicken_World',   // ← update
+    demo:   'https://my-chicken-ten.vercel.app/', // ← update
     gradient: 'from-orange-500 to-red-500',
     glow:     'rgba(249,115,22,0.2)',
     border:   'rgba(249,115,22,0.2)',
@@ -45,8 +45,8 @@ const PROJECTS = [
       'Real-time score updates',
     ],
     tech: ['HTML', 'CSS', 'JavaScript', 'SQL'],
-    github: 'https://github.com/abhimanyu',   // ← update
-    demo:   '#',                                // ← update
+    github: 'https://github.com/Abhimanyu1905/PlayPoint',   // ← update
+    demo:   'https://play-point-rho.vercel.app/',                                // ← update
     gradient: 'from-purple-500 to-pink-500',
     glow:     'rgba(168,85,247,0.2)',
     border:   'rgba(168,85,247,0.2)',

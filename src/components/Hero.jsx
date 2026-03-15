@@ -176,7 +176,7 @@ const Hero = () => {
 
             {/* Download Resume — update href to your actual resume path */}
             <motion.a
-              href="/resume.pdf"
+              href="/Abhimanyu.pdf"
               download
               whileHover={{ scale: 1.06 }}
               whileTap={{ scale: 0.95 }}
@@ -206,9 +206,9 @@ const Hero = () => {
             <span className="text-gray-600 text-xs tracking-wide">Find me on</span>
             {[
               /* ↓ Update these hrefs with your real profiles */
-              { Icon: FaGithub,     href: 'https://github.com/abhimanyu',            label: 'GitHub'   },
-              { Icon: FaLinkedinIn, href: 'https://linkedin.com/in/abhimanyu',       label: 'LinkedIn' },
-              { Icon: HiOutlineMail,href: 'mailto:abhimanyu@example.com',            label: 'Email'    },
+              { Icon: FaGithub,     href: 'https://github.com/Abhimanyu1905',            label: 'GitHub'   },
+              { Icon: FaLinkedinIn, href: 'https://linkedin.com/in/abhimanyu0001',       label: 'LinkedIn' },
+              { Icon: HiOutlineMail,href: 'mailto:abhimanyusep19@gmail.com',            label: 'Email'    },
             ].map(({ Icon, href, label }) => (
               <motion.a
                 key={label}

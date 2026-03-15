@@ -12,32 +12,32 @@ const CONTACT_INFO = [
   {
     Icon:    HiOutlineMail,
     label:   'Email',
-    value:   'abhimanyu@example.com',   // ← update
-    href:    'mailto:abhimanyu@example.com',
+    value:   'abhimanyusep19@gmail.com',   // ← update
+    href:    'mailto:abhimanyusep19@gmail.com',
     color:   '#a855f7',
     bg:      'rgba(168,85,247,0.1)',
   },
   {
     Icon:    FaPhone,
     label:   'Phone',
-    value:   '+91 XXXXX XXXXX',          // ← update
-    href:    'tel:+91XXXXXXXXXX',
+    value:   '+91 7652809558',          // ← update
+    href:    'tel:+917652809558',
     color:   '#22d3ee',
     bg:      'rgba(34,211,238,0.1)',
   },
   {
     Icon:    FaLinkedinIn,
     label:   'LinkedIn',
-    value:   'linkedin.com/in/abhimanyu', // ← update
-    href:    'https://linkedin.com/in/abhimanyu',
+    value:   'linkedin.com/in/abhimanyu0001', // ← update
+    href:    'https://www.linkedin.com/in/abhimanyu0001/',
     color:   '#0ea5e9',
     bg:      'rgba(14,165,233,0.1)',
   },
   {
     Icon:    FaGithub,
     label:   'GitHub',
-    value:   'github.com/abhimanyu',      // ← update
-    href:    'https://github.com/abhimanyu',
+    value:   'github.com/Abhimanyu1905',      // ← update
+    href:    'https://github.com/Abhimanyu1905',
     color:   '#e2e8f0',
     bg:      'rgba(226,232,240,0.07)',
   },
