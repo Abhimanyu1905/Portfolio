@@ -4,8 +4,8 @@ import { FaGithub, FaLinkedinIn, FaHeart } from 'react-icons/fa';
 import { HiOutlineMail } from 'react-icons/hi';
 
 const SOCIALS = [
-  { Icon: FaGithub,     href: 'https://github.com/abhimanyu0001',      label: 'GitHub'   },
-  { Icon: FaLinkedinIn, href: 'https://linkedin.com/in/Abhimanyu1905', label: 'LinkedIn' },
+  { Icon: FaGithub,     href: 'https://github.com/Abhimanyu1905',      label: 'GitHub'   },
+  { Icon: FaLinkedinIn, href: 'https://linkedin.com/in/abhimanyu0001', label: 'LinkedIn' },
   { Icon: HiOutlineMail,href: 'mailto:abhimanyusep19@gmail.com',      label: 'Email'    },
 ];
 
